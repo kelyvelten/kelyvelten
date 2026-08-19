@@ -26,7 +26,7 @@ Tenho mais de 10 anos de experiência na área administrativa e utilizo essa bag
 
 ## Projetos em destaque
 
-### Planilha de Cotação e Comparativo de Fornecedores
+### [Planilha de Cotação e Comparativo de Fornecedores](https://github.com/kelyvelten/planilha-cotacao-fornecedores)
 
 Solução desenvolvida em Excel para organizar cotações, comparar preços e identificar a melhor proposta para cada produto, reduzindo conferências manuais e apoiando decisões de compra.
 
